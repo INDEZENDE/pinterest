@@ -1,0 +1,136 @@
+*{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.icono {
+  outline: 2px solid red;
+}
+
+
+.icon-user:before {
+  content: "\e900";
+  right: 0;
+}
+
+.icon-bubble:before {
+  content: "\e96b";
+}
+
+.icon-menu:before {
+  content: "\e9bd";
+}
+body {
+  margin: 0;
+}
+span {
+  vertical-align: middle;
+}
+header img {
+  vertical-align:middle;
+  padding: 0px 40px 0px 70px;
+}
+
+input {
+    width: 70%;
+    height: 30px;
+    background-color: #EFEFEF;
+
+
+
+}
+header div {
+  right: 0;
+}
+header, header div {
+
+  position: fixed;
+  display: inline-block;
+  width: 100%;
+}
+
+header {
+  background-color: white;
+}
+span span {
+  padding-left: 30px;
+}
+
+nav {
+  padding-top: 7%;
+  text-align: center;
+  background-color: white;
+
+}
+
+nav a {
+
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    background: brown;
+    color: white;
+    font-weight: bold;
+}
+
+article section {
+  width: 24%;
+  margin: 1% 0 1% 0 ;
+}
+
+section {
+  height: 1800px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+article {
+
+
+  margin: 5%;
+  background-color: #F0B27A;
+
+}
+
+article section img {
+
+  margin: 0;
+  display: inline-block;
+  width: 100%;
+  background-color: #F0B27A;
+
+
+}
+#square_1
+{
+  background: #8D6D51;
+}
+#square_2 {
+  background: #AB8B6F;
+}
+
+#square_3 {
+  background: #8B7661;
+}
+
+#square_4 {
+  background: #8B7661;
+}
+
+#square_5 {
+  background: #9A934A;
+}
+
+#square_6 {
+  background: #9A934A;
+}
+
+#square_7 {
+  background: #898181;
+}
+
+#square_8 {
+  background: #98785D;
+}
+
+#square_9 {
+  background: #B27F75;
+}
